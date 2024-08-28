@@ -1,0 +1,11 @@
+{
+    "states": [
+      {"id": "1", "name": "Tamil Nadu"},
+      {"id": "2", "name": "Kerala"}
+    ],
+    "cities": {
+      "1": ["Coimbatore", "Madurai"],
+      "2": ["Palakkad", "Cochin"]
+    }
+  }
+  
